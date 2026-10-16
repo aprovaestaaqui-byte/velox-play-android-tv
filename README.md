@@ -4,10 +4,11 @@ APK de teste da versão **1.0.6** para instalação manual em Android TV.
 
 ## Instalar com Downloader
 
-1. Publique este diretório em um repositório **público** do GitHub.
-2. No GitHub, crie uma Release e anexe `Velox-Play-Android-TV-v1.0.6.apk` como arquivo da Release.
-3. No Downloader da TV, abra o link direto do arquivo da Release (`https://github.com/USUARIO/REPOSITORIO/releases/download/TAG/Velox-Play-Android-TV-v1.0.6.apk`).
-4. Se a TV solicitar, permita a instalação de apps desta fonte e instale o APK.
+1. No Downloader da TV, abra este link direto:
+
+   `https://github.com/aprovaestaaqui-byte/velox-play-android-tv/releases/download/v1.0.6/Velox-Play-Android-TV-v1.0.6.apk`
+
+2. Se a TV solicitar, permita a instalação de apps desta fonte e instale o APK.
 
 O APK é uma compilação de **teste (debug)**, assinada para instalação manual. Não é uma versão de produção ou de loja. O arquivo `SHA256.txt` permite conferir a integridade do download.
 
