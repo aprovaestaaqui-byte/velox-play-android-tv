@@ -1,1 +1,1 @@
-e8f8899b4cd72dea08c4010b448da58fb5fb812de34c8935eabb5396bc5d780d  Velox-Play-Android-TV-v1.0.9.apk
+f9dd18bd4e0879f7d92437dd772787aa1dc385959cc9789c150a680b76af2cc0  Velox-Play-Android-TV-v1.0.10.apk
